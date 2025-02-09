@@ -1,9 +1,9 @@
 .idea/*
 .venv/*
-code_penal_ivoirien.pdf
 entrainementIA.py
 extracteur_de_texte.py
 transformation_text_json.py
 transformationFormatgpt2.py
 READMEv2.md
 __pycache__/*
+scrappingOutil.py
