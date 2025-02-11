@@ -1,9 +1,7 @@
 .idea/*
 .venv/*
-entrainementIA.py
-extracteur_de_texte.py
-transformation_text_json.py
-transformationFormatgpt2.py
-READMEv2.md
+programme/*
+programme
+dataEntrainement
+dataEntrainement/*
 __pycache__/*
-scrappingOutil.py
